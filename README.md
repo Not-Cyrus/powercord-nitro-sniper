@@ -8,6 +8,9 @@ A: You figure that out
 
 Q: Hey Cyrus why the hell did you make this?
 A: couldn't tell you I'm just surprised it actually works
+
+Q: Should you use this over other nitro snipers?
+A: No. Dear god no. Not even I will be using it myself.
 ```
 
 How to use:
